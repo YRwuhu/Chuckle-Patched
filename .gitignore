@@ -1,0 +1,4 @@
+*.idsig
+*.jks
+*.keystore
+work/
